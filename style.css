@@ -107,7 +107,20 @@ section{
   src: url(fallingsky.otf);
 }
 
-@media all and (max-device-width: 480px)
+@media all and (max-width: 1080px)
 {
+    #image1, #image2{
+        display: none;
+    }
+    .para{
+        text-align: justify;
+        margin-right: 30%;
+        margin-left: 20%;
+        font-size: 1.5em;
 
+    }
+    .titre{
+        text-align: center;
+        flex:1;
+    }
 }
