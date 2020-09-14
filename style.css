@@ -136,15 +136,16 @@ section{
         text-align: center;
         flex:1;
     margin-top: 2em;
+    margin-right: 1em;
     font-size: 2em;
 
 
     }
     .para1{
     text-align: center;
-    margin-right: 0%;
-    margin-left: 20%;
-    font-size: 1.5em;
+    margin-right: 3%;
+    margin-left: 13%;
+    font-size: 1.3em;
     }
     article{
         width: 70%;
@@ -160,7 +161,7 @@ section{
 
     .titre3{
     text-align: center;
-    margin-right: -1.5em;
+    margin-right: 0em;
     font-size: 3em;
     }
 
