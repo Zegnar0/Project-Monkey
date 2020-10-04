@@ -34,6 +34,19 @@ nav{
     font-size: 2em;
     left: 3em;
 }
+.example-link{
+    background-image: url(images/ENORME.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px ;
+    height: 113px;
+}
+.example-link a{
+   padding-top: 30px;
+   padding-left:15px;
+   display:block;
+   
+}
 
 a{
     text-decoration: none;
@@ -88,12 +101,12 @@ section{
 }
 
 #image1{
+    margin-left: 100px;
     height: 200px;
-  width: 400px;
-  background-color: #555;
+  width: 200px;
 }
 #image2{
-    height: 200px;
+    height: 391px;
   width: 400px;
   background-color: #555;
 }
