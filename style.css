@@ -21,6 +21,7 @@ header{
     bottom: 5px;
     margin-top: 1em;
     font-size: 4em;
+    User-select: none;
 }
 
 nav{
@@ -45,6 +46,7 @@ nav{
    padding-top: 30px;
    padding-left:15px;
    display:block;
+   User-select: none;
    
 }
 
@@ -104,11 +106,13 @@ section{
     margin-left: 100px;
     height: 200px;
   width: 200px;
+  User-select: none;
 }
 #image2{
     height: 391px;
   width: 400px;
   background-color: #555;
+  User-select: none;
 }
 
 #lien{
